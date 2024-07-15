@@ -1,0 +1,11 @@
+id = "treesl"
+name = "TreeSL"
+version = "0.0.1"
+schema_version = 1
+authors = ["Willster 'WillsterJohnson' Johnson <willster@willsterjohnson.com>"]
+description = "Zed support for TreeSL - a DSL for writing tree-sitter grammars"
+repository = "https://github.com/willsterjohnson/treesl-zed"
+
+[grammars.treesl]
+repository = "https://github.com/willsterjohnson/tree-sitter-treesl"
+commit = "be2aaf20e2e6a3468cfee11f1f27063b1aa5fb49"
